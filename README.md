@@ -1,1 +1,2 @@
-# data_mining
+# data mining final project
+# please look at the PDF first
